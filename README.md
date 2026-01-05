@@ -6,13 +6,7 @@
 
 Auto.js (Pro)是Android上基于JavaScript的面向编程学习与效率提升的代码开发平台。
 
-## 软件下载
-
-官网: https://pro.autojs.org
-
-官方文档: https://pro.autojs.org/docs
-
-官方博客: https://blog.autojs.org
+【仅作为学习使用】
 
 ## 开源说明
 

@@ -3,10 +3,11 @@
 [README in English](https://github.com/hyb1996/Auto.js/blob/master/README-en.md)
 
 # 简介
+【仅作为学习使用】
 
 Auto.js (Pro)是Android上基于JavaScript的面向编程学习与效率提升的代码开发平台。
 
-【仅作为学习使用】
+
 
 ## 开源说明
 
